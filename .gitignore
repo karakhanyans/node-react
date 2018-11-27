@@ -1,0 +1,4 @@
+# editors
+.idea
+.DS_Store
+uploads/*

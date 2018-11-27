@@ -1,0 +1,1 @@
+export const WRONG_CREDENTIALS = "wrong_credentials";
