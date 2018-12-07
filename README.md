@@ -23,10 +23,10 @@ Yarn>=1.7.0
 If you want install application you must
 
 ```
-git clone https://github.com/GHarutyunyan/Node-React.git
+git clone https://github.com/karakhanyans/Node-React.git
 ```
-* [Backend](https://github.com/GHarutyunyan/Node-React/tree/master/backend) 
-* [Frontend](https://github.com/GHarutyunyan/Node-React/tree/master/frontend)
+* [Backend](https://github.com/karakhanyans/Node-React/tree/master/backend) 
+* [Frontend](https://github.com/karakhanyans/Node-React/tree/master/frontend)
  
 ## Built With
 
